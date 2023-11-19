@@ -92,7 +92,7 @@ function App() {
                 <a href="/" className="rounded-full transition text-base font-semibold  text-blue-700 hover:text-white bg-white hover:bg-blue-500 border-4 border-t-2 px-9 py-4">Contact Me</a>
               </button>
             </div>
-            <img className="absolute -bottom-24 inset-x-0 mx-auto hidden lg:block scale-50 xl:scale-75 " src="https://res.cloudinary.com/devloops7/image/upload/f_auto,q_auto/v1/udexmedia/hrpyepa4rto7p0f1xwgm" alt="" />
+            <img className="absolute -bottom-24 inset-x-0 mx-auto hidden lg:block scale-50 xl:scale-75 " src="https://res.cloudinary.com/devloops7/image/upload/v1700408421/udexmedia/a59qpla45yxtx2wpgmxc.svg" alt="" />
           </div>
         </div>
       </section>
