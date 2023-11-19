@@ -208,7 +208,7 @@ function App() {
         </div>
         <div className="grid grid-cols-2 mt-10 w-5/6 mx-auto ">
           <div className=" w-5/6 pt-32 flex flex-col gap-20">
-            <div className="rounded-3xl bg-[#FFEFCE] w-full mx-auto h-72 ">
+            <div className="rounded-3xl bg-[#FFEFCE] w-full mx-auto h-64 ">
               <div className="flex flex-col p-5 justify-end h-full">
                 <div className="w-96 mx-auto "><img src="https://res.cloudinary.com/devloops7/image/upload/v1700408416/udexmedia/qfffee1iij0ywabho5tw.png" alt="" /></div>
                 <h1 className="text-2xl mt-5 font-semibold">E-Commerce Website</h1>
@@ -227,7 +227,7 @@ function App() {
           </div>
           <div className="w-5/6">
             <div className="flex flex-col gap-20">
-              <div className="rounded-3xl bg-[#FFE5E5] w-full mx-auto h-72 ">
+              <div className="rounded-3xl bg-[#FFE5E5] w-full mx-auto h-64 ">
                 <div className="flex flex-col p-5 justify-end h-full">
                   <div className="w-96 mx-auto "><img src="https://res.cloudinary.com/devloops7/image/upload/v1700408418/udexmedia/zqlygdby7vviazwwpjya.png" alt="" /></div>
                   <h1 className="text-2xl mt-5 font-semibold">Point Of Sale</h1>
