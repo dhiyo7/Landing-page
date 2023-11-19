@@ -82,8 +82,8 @@ function App() {
       <section className="w-full ">
         <div className="relative h-screen">
           <div className="absolute -z-30 bg-[#0365FD] h-[300px] w-full top-0 "></div>
-          <img className="absolute w-full top-0" src=" /src/assets/hero-pattern-bg.png" alt="" />
-          <img className="absolute -z-20 w-full bottom-0" src="/src/assets/bg-image-hero.svg" alt="" />
+          <img className="absolute w-full top-0" src="https://res.cloudinary.com/devloops7/image/upload/v1700408420/udexmedia/qmfacnrtmvjdbabpdlyr.png" alt="" />
+          <img className="absolute -z-20 w-full bottom-0" src="https://res.cloudinary.com/devloops7/image/upload/f_auto,q_auto/v1/udexmedia/bo8itejuczxootaachfk" alt="" />
           <div className="relative">
             <div className=" flex flex-col z-10 h-screen pt-20 items-center text-center text-white mx-auto gap-10 max-w-screen-xl px-4 sm:px-6 lg:px-8">
               <h1 className="text-4xl  leading-snug font-bold">We Build Delightful <br /> Digital Experience </h1>
@@ -92,7 +92,7 @@ function App() {
                 <a href="/" className="rounded-full transition text-base font-semibold  text-blue-700 hover:text-white bg-white hover:bg-blue-500 border-4 border-t-2 px-9 py-4">Contact Me</a>
               </button>
             </div>
-            <img className="absolute -bottom-24 inset-x-0 mx-auto hidden lg:block scale-50 xl:scale-75 " src="/src/assets/hero-asset-1.svg" alt="" />
+            <img className="absolute -bottom-24 inset-x-0 mx-auto hidden lg:block scale-50 xl:scale-75 " src="https://res.cloudinary.com/devloops7/image/upload/f_auto,q_auto/v1/udexmedia/hrpyepa4rto7p0f1xwgm" alt="" />
           </div>
         </div>
       </section>
@@ -102,31 +102,31 @@ function App() {
         <div className="container py-24 mx-auto" >
           <div className="text-center mt-10">
             <h1 className="text-3xl font-bold text-[#044581]">What We Do</h1>
-            <img className="mx-auto py-5" src="/src/assets/underline_01.svg" alt="" />
+            <img className="mx-auto py-5" src="https://res.cloudinary.com/devloops7/image/upload/v1700408413/udexmedia/mbgn373pw0fqpffbdsne.svg" alt="" />
             <p className="text-xl w-1/2 mx-auto">Udexmedia was founded to help developers and designers with their projects by offering great quality products.</p>
           </div>
           <div className="flex flex-wrap my-16" >
             <div className="p-4 lg:w-1/4" >
               <div className="h-full bg-gray-100 bg-opacity-75 px-4 py-10 rounded-lg text-center border-2 shadow-xl" >
-                <img className="mx-auto pb-6" src="/src/assets/uiux-icon.svg" alt="" />
+                <img className="mx-auto pb-6" src="https://res.cloudinary.com/devloops7/image/upload/v1700408413/udexmedia/jdx1iyohu9aqz1v4h94g.svg" alt="" />
                 <h1 className="w-3/4 mx-auto text-xl font-normal text-black">UI/UX Design</h1>
               </div>
             </div>
             <div className="p-4 lg:w-1/4" >
               <div className="h-full bg-gray-100 bg-opacity-75 px-4 py-10 rounded-lg text-center border-2 shadow-xl" >
-                <img className="mx-auto pb-6" src="/src/assets/web-icon.svg" alt="" />
+                <img className="mx-auto pb-6" src="https://res.cloudinary.com/devloops7/image/upload/v1700408414/udexmedia/gpbazoiu6h9gfezqlfet.svg" alt="" />
                 <h1 className="w-3/4 mx-auto text-xl font-normal text-black">Website Development</h1>
               </div>
             </div>
             <div className="p-4 lg:w-1/4" >
               <div className="h-full bg-gray-100 bg-opacity-75 px-4 py-10 rounded-lg text-center border-2 shadow-xl" >
-                <img className="mx-auto pb-6" src="/src/assets/mobile-icon.svg" alt="" />
+                <img className="mx-auto pb-6" src="https://res.cloudinary.com/devloops7/image/upload/v1700408421/udexmedia/xnvfahm3e5eumutba0xo.svg" alt="" />
                 <h1 className="w-3/4 mx-auto text-xl font-normal text-black">Mobile App Development</h1>
               </div>
             </div>
             <div className="p-4 lg:w-1/4" >
               <div className="h-full bg-gray-100 bg-opacity-75 px-4 py-10 rounded-lg text-center border-2 shadow-xl" >
-                <img className="mx-auto pb-6" src="/src/assets/game-icon.svg" alt="" />
+                <img className="mx-auto pb-6" src="https://res.cloudinary.com/devloops7/image/upload/v1700408419/udexmedia/t5m8ta1xzsz3jq2t4nsk.svg" alt="" />
                 <h1 className="w-3/4 mx-auto text-xl font-normal text-black">Mobile Game  Development</h1>
               </div>
             </div>
@@ -143,7 +143,7 @@ function App() {
       <section className="container px-4 sm:px-6 lg:px-8 mx-auto">
         <div className="text-center">
           <h1 className="text-3xl font-bold text-[#044581]">Our Products</h1>
-          <img className="mx-auto py-5" src="/src/assets/underline_01.svg" alt="" />
+          <img className="mx-auto py-5" src="https://res.cloudinary.com/devloops7/image/upload/v1700408413/udexmedia/mbgn373pw0fqpffbdsne.svg" alt="" />
         </div>
         <div className="flex flex-col gap-10">
           <div className="grid grid-cols-2 gap-5">
@@ -158,12 +158,12 @@ function App() {
               </div>
             </div>
             <div className="p-10">
-              <img src="/src/assets/product-1.png" alt="" />
+              <img src="https://res.cloudinary.com/devloops7/image/upload/v1700408421/udexmedia/rix0gg7qa28wm5jth194.png" alt="" />
             </div>
           </div>
           <div className="grid grid-cols-2 gap-5">
             <div className="p-10">
-              <img src="/src/assets/product-2.png" alt="" />
+              <img src="https://res.cloudinary.com/devloops7/image/upload/v1700408422/udexmedia/nf63e2ggnolgfwrwjb65.png" alt="" />
             </div>
             <div className="text-center px-20 my-auto">
               <h1 className="text-2xl font-semibold text-[#B78642]">Larvify</h1>
@@ -176,12 +176,12 @@ function App() {
               <p className="text-normal mt-4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem, aperiam, non, eius laboriosam quasi quaerat perspiciatis sit aspernatur dolorum assumenda neque porro nobis aliquid molestias sed quos cumque veritatis dolore.</p>
             </div>
             <div className="p-10">
-              <img src="/src/assets/product-2.png" alt="" />
+              <img src="https://res.cloudinary.com/devloops7/image/upload/v1700408422/udexmedia/nf63e2ggnolgfwrwjb65.png" alt="" />
             </div>
           </div>
           <div className="grid grid-cols-2 gap-5">
             <div className="p-10">
-              <img src="/src/assets/product-2.png" alt="" />
+              <img src="https://res.cloudinary.com/devloops7/image/upload/v1700408422/udexmedia/nf63e2ggnolgfwrwjb65.png" alt="" />
             </div>
             <div className="text-center px-20 my-auto">
               <h1 className="text-2xl font-semibold bg-gradient-to-b from-[#93DF93] to-[#21C2C1] inline-block text-transparent bg-clip-text">JomViral</h1>
@@ -194,7 +194,7 @@ function App() {
               <p className="text-normal mt-4">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quidem, aperiam, non, eius laboriosam quasi quaerat perspiciatis sit aspernatur dolorum assumenda neque porro nobis aliquid molestias sed quos cumque veritatis dolore.</p>
             </div>
             <div className="p-10">
-              <img src="/src/assets/product-2.png" alt="" />
+              <img src="https://res.cloudinary.com/devloops7/image/upload/v1700408422/udexmedia/nf63e2ggnolgfwrwjb65.png" alt="" />
             </div>
           </div>
         </div>
@@ -204,13 +204,13 @@ function App() {
       <section className="container px-4 sm:px-6 lg:px-8 mx-auto">
         <div className="text-center mt-10">
           <h1 className="text-3xl font-bold text-[#044581]">Our Latest Work</h1>
-          <img className="mx-auto py-5" src="/src/assets/underline_01.svg" alt="" />
+          <img className="mx-auto py-5" src="https://res.cloudinary.com/devloops7/image/upload/v1700408413/udexmedia/mbgn373pw0fqpffbdsne.svg" alt="" />
         </div>
         <div className="grid grid-cols-2 mt-10 w-5/6 mx-auto ">
           <div className=" w-5/6 pt-32 flex flex-col gap-20">
             <div className="rounded-3xl bg-[#FFEFCE] w-full mx-auto h-72 ">
               <div className="flex flex-col p-5 justify-end h-full">
-                <div className="w-96 mx-auto "><img src="/src/assets/work-asset-1.png" alt="" /></div>
+                <div className="w-96 mx-auto "><img src="https://res.cloudinary.com/devloops7/image/upload/v1700408416/udexmedia/qfffee1iij0ywabho5tw.png" alt="" /></div>
                 <h1 className="text-2xl mt-5 font-semibold">E-Commerce Website</h1>
                 <p className="text-gray-600 text-sm">WAWACOSMETIC</p>
               </div>
@@ -218,7 +218,7 @@ function App() {
             </div>
             <div className="rounded-3xl bg-[#E1E6FB] w-full mx-auto h-72 ">
               <div className="flex flex-col p-5 justify-end h-full">
-                <div className="w-96 mx-auto "><img src="/src/assets/work-asset-2.png" alt="" /></div>
+                <div className="w-96 mx-auto "><img src="https://res.cloudinary.com/devloops7/image/upload/v1700408416/udexmedia/vqmr0p2anxoebv6xwebr.png" alt="" /></div>
                 <h1 className="text-2xl mt-5 font-semibold">E-Commerce Website</h1>
                 <p className="text-gray-600 text-sm">BOUGAS MEN & WOMEN</p>
               </div>
@@ -229,7 +229,7 @@ function App() {
             <div className="flex flex-col gap-20">
               <div className="rounded-3xl bg-[#FFE5E5] w-full mx-auto h-72 ">
                 <div className="flex flex-col p-5 justify-end h-full">
-                  <div className="w-96 mx-auto "><img src="/src/assets/work-asset-4.png" alt="" /></div>
+                  <div className="w-96 mx-auto "><img src="https://res.cloudinary.com/devloops7/image/upload/v1700408418/udexmedia/zqlygdby7vviazwwpjya.png" alt="" /></div>
                   <h1 className="text-2xl mt-5 font-semibold">Point Of Sale</h1>
                   <p className="text-gray-600 text-sm">HIJAB ISTA HUB</p>
                 </div>
@@ -237,7 +237,7 @@ function App() {
               </div>
               <div className="rounded-3xl bg-[#F9F1EE] w-full mx-auto h-72 ">
                 <div className="flex flex-col p-5 justify-end h-full">
-                  <div className="w-96 mx-auto "><img src="/src/assets/work-asset-3.png" alt="" /></div>
+                  <div className="w-96 mx-auto "><img src="https://res.cloudinary.com/devloops7/image/upload/v1700408419/udexmedia/lysdbl99fq2gpbbd54ah.png" alt="" /></div>
                   <h1 className="text-2xl mt-5 font-semibold">E-Commerce Website</h1>
                   <p className="text-gray-600 text-sm">UZMA REPUBLIC</p>
                 </div>
@@ -257,20 +257,20 @@ function App() {
       <section className="container px-4 sm:px-6 lg:px-8 mx-auto py-10">
         <div className="text-center mt-10">
           <h1 className="text-3xl font-bold text-[#044581]">As Seen On</h1>
-          <img className="mx-auto py-5" src="/src/assets/underline_01.svg" alt="" />
+          <img className="mx-auto py-5" src="https://res.cloudinary.com/devloops7/image/upload/v1700408413/udexmedia/mbgn373pw0fqpffbdsne.svg" alt="" />
         </div>
         <div className="flex flex-wrap md:flex-col lg:flex-row max-w-3xl mx-auto justify-center items-center gap-2 ">
           <div className="w-fit">
-            <img className="h-32 p-5" src="/src/assets/alpha-startups.png" alt="" />
+            <img className="h-32 p-5" src="https://res.cloudinary.com/devloops7/image/upload/v1700408414/udexmedia/amu3f0trgxrzt9mcvh8s.png" alt="" />
           </div>
           <div className="w-fit">
-            <img className="h-32 p-5" src="/src/assets/my-startup.png" alt="" />
+            <img className="h-32 p-5" src="https://res.cloudinary.com/devloops7/image/upload/v1700408420/udexmedia/tycvzd8d7yscjlekc5up.png" alt="" />
           </div>
           <div className="w-fit">
-            <img className="h-32 p-5" src="/src/assets/microsoft.png" alt="" />
+            <img className="h-32 p-5" src="https://res.cloudinary.com/devloops7/image/upload/v1700408420/udexmedia/ong8ayaimlqmfgx0fbfs.png" alt="" />
           </div>
           <div className="w-fit">
-            <img className="h-32 p-5 py-10" src="/src/assets/google.png" alt="" />
+            <img className="h-32 p-5 py-10" src="https://res.cloudinary.com/devloops7/image/upload/v1700408419/udexmedia/l08u7dpnhihwqwyut8kn.png" alt="" />
           </div>
         </div>
       </section>
@@ -279,7 +279,7 @@ function App() {
       <section className="container px-4 sm:px-6 lg:px-10 py-5 my-7 mx-auto w-3/4 bg-slate-200 rounded-3xl">
         <div className="text-center rounded-3xl px-8 py-6 border bg-white">
           <h1 className="text-3xl font-bold text-[#044581]">What Sets Us Apart <p className="text-blue-500 inline">?</p></h1>
-          <img className="mx-auto py-5" src="/src/assets/underline_01.svg" alt="" />
+          <img className="mx-auto py-5" src="https://res.cloudinary.com/devloops7/image/upload/v1700408413/udexmedia/mbgn373pw0fqpffbdsne.svg" alt="" />
           <div className="flex mb-8">
             <p className="inline text-blue-500 text-2xl italic font-bold mr-3">"</p>
             <h1 className="text-2xl font-normal text-justify">
@@ -299,8 +299,8 @@ function App() {
       {/* contact me */}
       <section>
         <div className="relative h-full ">
-          <img className="bg-[#0669FD]" src="/src/assets/footer-white-mask.png.svg" alt="" />
-          <img className="absolute top-10 overflow-hidden" src="/src/assets/hero-pattern-bg.png" alt="" />
+          <img className="bg-[#0669FD]" src="https://res.cloudinary.com/devloops7/image/upload/v1700408417/udexmedia/faxnwgwsxmxrbsqsdbqs.svg" alt="" />
+          <img className="absolute top-10 overflow-hidden" src="https://res.cloudinary.com/devloops7/image/upload/v1700408420/udexmedia/qmfacnrtmvjdbabpdlyr.png" alt="" />
         </div>
         <div className="bg-gradient-to-b from-[#0669FD] to-[#59CEFB] ">
           <div className="grid grid-cols-2 pt-10 container px-4 sm:px-6 lg:px-8 mx-auto" >
@@ -310,7 +310,7 @@ function App() {
                 <div className="border-2 w-28 mt-2 border-white rounded"></div>
               </div>
               <p>Tell us anything you need and we are ready to create special package for your business need! Free consultation. </p>
-              <img className="scale-75" src="/src/assets/contact-asset.svg" alt="" />
+              <img className="scale-75" src="https://res.cloudinary.com/devloops7/image/upload/v1700408415/udexmedia/hrpyepa4rto7p0f1xwgm.svg" alt="" />
             </div>
             <div className="z-20">
               <form className="flex flex-col gap-4" action="">
@@ -338,10 +338,10 @@ function App() {
             </div>
           </div>
           <div className="flex gap-6">
-            <a href=""><img src="/src/assets/Instagram.svg" alt="" /></a>
-            <a href=""><img src="/src/assets/Facebook.svg" alt="" /></a>
-            <a href=""><img src="/src/assets/youtube.svg" alt="" /></a>
-            <a href=""><img src="/src/assets/Twitter.svg" alt="" /></a>
+            <a href=""><img src="https://res.cloudinary.com/devloops7/image/upload/v1700408419/udexmedia/emvxm6hedutg2kcrh8zp.svg" alt="" /></a>
+            <a href=""><img src="https://res.cloudinary.com/devloops7/image/upload/v1700408414/udexmedia/xpgq6jlezsr7fwrbnl4c.svg" alt="" /></a>
+            <a href=""><img src="https://res.cloudinary.com/devloops7/image/upload/v1700408417/udexmedia/ivwgmhyjsshbeskongut.svg" alt="" /></a>
+            <a href=""><img src="https://res.cloudinary.com/devloops7/image/upload/v1700408423/udexmedia/gsfaox97t1zlxwbec6hn.svg" alt="" /></a>
           </div>
         </div>
         <div className="flex justify-between mt-10">
